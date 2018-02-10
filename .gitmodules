@@ -1,0 +1,3 @@
+[submodule "Projects/FaceDetection_FaceRecognition"]
+	path = Projects/FaceDetection_FaceRecognition
+	url = https://github.com/ameyaditya/FaceDetection_FaceRecognition.git
